@@ -152,18 +152,6 @@ Focus areas:
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauluddin12z&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauluddin12z&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📊 Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mauluddin12z&theme=tokyo-night&hide_border=true)](https://github.com/mauluddin12z)
