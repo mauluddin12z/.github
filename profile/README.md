@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=220&section=header&text=Hidayat%20Mauluddin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20•%20AI%20Systems%20Builder%20•%20Infrastructure%20Engineer&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=220&section=header&text=Muhammad%20Hidayat%20Mauluddin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20•%20AI%20Systems%20Builder%20•%20Infrastructure%20Engineer&descAlignY=55"/>
 
 <div align="center">
 
